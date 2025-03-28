@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am Manu George 👋
 
 <!--
 **Demon-of-Asgard/Demon-of-Asgard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
