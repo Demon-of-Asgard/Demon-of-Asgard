@@ -8,7 +8,8 @@ I am also a strong believer in opensource projects. Whenever I find some time I 
 
 ### Summary and salient features of the opensource projects I contributed to:
 
-
+#### Academic
+  - [COSEν](https://github.com/COSEnu/COSEnu): Simulation Engine for neutrino fast flavor conversion in 1(time) + 1(space) + 1(angular) dimensions. 
 
 
 <!--
